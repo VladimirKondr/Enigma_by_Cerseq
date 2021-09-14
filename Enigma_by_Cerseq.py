@@ -172,22 +172,6 @@ while True:
             else:
                 print('Check your input')
 
-        #        if len(rotors_str) == 0:
-        #            raise Exception("These parameters must be entered.")
-
-        #        for unit in rotors_arra[0: 3]:
-        #            try:
-        #                int(unit)
-        #            except:
-        #                raise Exception(
-        #                    "The first three values must be integers. If they are integers, then check the input format")
-        #        if rotors_arra[3] not in ["b", "c"]:
-        #            if rotors_arra[3] in "с":  # тут русская с
-        #                raise Exception("Check your keyboard layout. You entered Russian с")  # тут русская с
-        #            else:
-        #                raise Exception("The last character must be b or c. If it is b or c, then check the input format.")
-        #
-        # --------------------------------------------------------------------------------------------------------------------------
         while True:
             plugboard_str = str(
                 input('You can choose two letters of your alphabet and write them as (ab) without brackets.'
@@ -342,4 +326,3 @@ while True:
     if end_1 in 'no':
         break
 
-    # TODO create readme
