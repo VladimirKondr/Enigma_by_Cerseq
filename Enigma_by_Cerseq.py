@@ -114,22 +114,22 @@ def plug_usage(letter):
 
 
 # ------------------------------------------------------------------------------------------------------------------
+abc = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".lower()
+abc_1 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".lower()
+abc_2 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".lower()
+abc_3 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".lower()
+abc_4 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".lower()
+abc_5 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".lower()
+
+reflector_b = 'YRUHQSLDPXNGOKMIEBFZCWVJAT'.lower()
+reflector_c = 'FVPJIAOYEDRZXWGCTKUQSBNMHL'.lower()
+
+key_11 = 'ekmflgdqvzntowyhxuspaibrcj'.lower()
+key_21 = 'ajdksiruxblhwtmcqgznpyfvoe'.lower()
+key_31 = 'bdfhjlcprtxvznyeiwgakmusqo'.lower()
+key_41 = 'ESOVPZJAYQUIRHXLNFTGKDCMWB'.lower()
+key_51 = 'VZBRGITYUPSDNHLXAWMJQOFECK'.lower()
 while True:
-    abc = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".lower()
-    abc_1 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".lower()
-    abc_2 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".lower()
-    abc_3 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".lower()
-    abc_4 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".lower()
-    abc_5 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".lower()
-
-    reflector_b = 'YRUHQSLDPXNGOKMIEBFZCWVJAT'.lower()
-    reflector_c = 'FVPJIAOYEDRZXWGCTKUQSBNMHL'.lower()
-
-    key_11 = 'ekmflgdqvzntowyhxuspaibrcj'.lower()
-    key_21 = 'ajdksiruxblhwtmcqgznpyfvoe'.lower()
-    key_31 = 'bdfhjlcprtxvznyeiwgakmusqo'.lower()
-    key_41 = 'ESOVPZJAYQUIRHXLNFTGKDCMWB'.lower()
-    key_51 = 'VZBRGITYUPSDNHLXAWMJQOFECK'.lower()
 
 
 
